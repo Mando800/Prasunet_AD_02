@@ -1,16 +1,20 @@
 # ToDoApp
 A ToDo List App
-This repository contains the source code for a basic To-Do List application built for Android using Kotlin. The app allows users to:
 
-Add new tasks
-Edit existing tasks
-Delete completed tasks
+This repository contains the source code for a basic To-Do List application built for Android using Kotlin. 
+
+The app allows users to:
+
+1. Add new tasks
+2. Edit existing tasks
+3. Delete completed tasks
+   
 Features:
 
-Clean and user-friendly interface
-Functionality to add, edit, and delete tasks
-(Optional) Briefly mention any other functionalities you implemented (e.g., saving tasks, marking tasks complete)
+1. Clean and user-friendly interface
+2. Functionality to add, edit, and delete tasks
+
 Tech Stack:
 
-Kotlin
-Android Studio
+1. Kotlin
+2. Android Studio
