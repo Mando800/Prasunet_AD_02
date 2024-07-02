@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#007A8C</color>
+    <color name="colorPrimaryDark">#282828</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="mainBackground">#FFFFFF</color>
+    <color name="tileBackground">#6FB9FB</color>
+    <color name="completedBackground">#AFABAB</color>
+    <color name="controlBarBackground">#BDD7EE</color>
+
+    <color name="red">@color/design_default_color_error</color>
+</resources>
